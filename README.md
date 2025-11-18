@@ -10,16 +10,13 @@
 2️⃣ Backend (Flask) Setup:
    ➤ Created Flask app
    ➤ Tested locally → http://127.0.0.1:5000
-   📸 Insert Backend Running Screenshot
 
 3️⃣ Frontend (Node + Express) Setup:
    ➤ Created form with Name + Email
    ➤ Tested locally → http://localhost:3000
-   📸 Insert Frontend Running Screenshot
 
 4️⃣ Backend ↔ Frontend Communication:
    ➤ Submitted form → Backend received data
-   📸 Insert Screenshot of Terminal showing “Received:”
 
 5️⃣ Docker Setup:
    ➤ Dockerfile created for backend
@@ -31,12 +28,10 @@
    ➤ docker compose up
    ➤ Backend running inside container on 5000
    ➤ Frontend running inside container on 3000
-   📸 Insert Screenshot of running containers
 
 7️⃣ Final Verification:
    ✔ Form working in browser
    ✔ Backend receiving Name & Email
-   📸 Insert Screenshot of submission result
 
 8️⃣ GitHub Push Completed:
    ➤ git init → git add . → git commit
