@@ -36,7 +36,6 @@
 8️⃣ GitHub Push Completed:
    ➤ git init → git add . → git commit
    ➤ git push -u origin main
-   📸 Insert Git Push Screenshot
 
 🎉 PROJECT SUCCESSFULLY COMPLETED
 ✔ Backend Working
