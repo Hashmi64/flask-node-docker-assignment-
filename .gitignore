@@ -2,3 +2,5 @@ node_modules
 __pycache__
 .env
 .vscode
+Docker.docx
+FLASK_assignment.docx
